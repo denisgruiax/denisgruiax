@@ -1,7 +1,7 @@
 ### Hi, I’m Denis and... 👋
 - 👀 I’m interested in Distributed Application Programming.
 - 🌱 I’m currently learning Ocaml and Motoko. (programming languages)
-- 💞️ I’m looking to collaborate on Java, C/C++, Ocaml projects.
+- 💞️ I’m looking to collaborate on Java, C/C++ and Ocaml projects.
 - 📫 How to reach me denis.gruiax@icloud.com.
 
 <!---
