@@ -4,7 +4,7 @@ I am a software engineer with experience in software development and testing in 
 In my own way, I am an adaptable, self-motivated and hardworking person who likes to pay attention to details. Some of the skills I try to invest in are problem solving, design and mental skills, because I think any software developer should have them. ⭐
 
 I am also constantly trying to develop my communication skills so that I can maintain a good long-term understanding with the people around me. ✅
-## Other things about me. 💡
+## Facts about me. 💡
 - 👨‍💻 Currently working as a System Test Engineer at Nokia.
 - ⭐ I’m interested in Distributed Application Programming.
 - 🌱 I’m currently learning Ocaml and Motoko.
