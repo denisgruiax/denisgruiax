@@ -1,5 +1,5 @@
 ## Hi, I’m Denis. 👋
-I am a software engineer with experience in software development and testing in several programming languages. 🧑‍💻
+I am a software engineer with experience in software development and testing in several programming languages. 👨‍💻
 
 In my own way, I am an adaptable, self-motivated and hardworking person who likes to pay attention to details. Some of the skills I try to invest in are problem solving, design and mental skills, because I think any software developer should have them. ⭐
 
