@@ -7,8 +7,8 @@ I am also constantly trying to develop my communication skills so that I can mai
 ## Facts about me. 💡
 - 👨‍💻 Currently working as a System Test Engineer at Nokia.
 - ⭐ I’m interested in Distributed Application Programming.
-- 🌱 I’m currently learning Ocaml and Motoko.
-- 💞 I’m looking to collaborate on Java, C/C++ and Ocaml projects.
+- 🌱 I’m currently learning Ocaml and Rust.
+- 💞 I’m looking to collaborate on Ocaml and Rust projects.
 - 💻 Operating Systems used for development Windows and Linux.
 - ⚡ How to reach me [email](denis.gruiax@icloud.com).
 
