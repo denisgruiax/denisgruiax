@@ -19,7 +19,7 @@ Unit testing with C++, I made use of GoogleMock, EasyMock and Qt framework. 🧪
 
 Integration testing, I defined some test scenarios for the new functionalities, I created test cycles after the scenarios defined and added them in the regressions to test the integrity of software modules. 🧩
 
-## Programming skills. 🚀
+## Experience with the following languages (not an expert). 📚
 ![C/C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Java](https://img.shields.io/badge/Java-FCC624.svg?style=flat&logo=Java&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml%20-%23150458.svg?&style=flat&logo=OCaml&logoColor=white)&nbsp;
