@@ -5,7 +5,7 @@ My work revolves around designing efficient architectures, working close to the 
 
 I value strong fundamentals — problem solving, system design, and attention to detail — and I continuously refine them through hands-on projects and deep technical exploration. ⭐
 
-I also care about clear communication and long-term collaboration, especially when working on complex systems where clarity matters as much as correctness. ✅
+I also care about clear communication and long-term collaboration, especially when working on complex systems where clarity matters as much as correctness. 🤝
 
 ## 💡 Facts about me
 - 👨‍💻 System Test Engineer at Nokia
@@ -16,12 +16,22 @@ I also care about clear communication and long-term collaboration, especially wh
 - 💻 Developing primarily on macOS
 - ⚡ How to reach me [email](denis.gruiax@icloud.com).
 
-## Work experience. ⚒️
-Software developing with C++ & Qt framework, in writing the code, I used some principles of object oriented programming and design patterns. 📝
+## ⚒️ Experience Highlights
+### 🧩 C++ Software Development (1 year)
+Built applications using C++ and Qt with focus on maintainable design
+Applied object-oriented design and common design patterns
+Wrote unit tests using GoogleMock and Qt testing tools
 
-Unit testing with C++, I made use of GoogleMock, EasyMock and Qt framework. 🧪
+### 🧪 System Test Engineering @ Nokia (3+ years)
+Worked on large-scale systems with continuous regression testing
+Designed and executed integration and feature test scenarios
+Automated a few test scenarios using Robot Framework
+Contributed small internal tools in Rust to improve productivity
 
-Integration testing, I defined some test scenarios for the new functionalities, I created test cycles after the scenarios defined and added them in the regressions to test the integrity of software modules. 🧩
+### 🚀 Personal Projects
+Designing and building a high-performance trading system in Rust
+Implementing low-latency components (WebSocket clients, data pipelines, exchange APIs)
+Exploring concurrency, system design, and real-time data processing
 
 ## Experience with the following languages (not an expert). 📚
 ![C/C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
