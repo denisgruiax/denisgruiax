@@ -1,15 +1,19 @@
 ## Hi, I’m Denis. 👋
-I am a software engineer with experience in software development and testing in several programming languages. 👨‍💻
+I’m a software engineer focused on systems programming, distributed applications, and building high-performance, reliable software. 👨‍💻
 
-In my own way, I am an adaptable, self-motivated and hardworking person who likes to pay attention to details. Some of the skills I try to invest in are problem solving, design and mental skills, because I think any software developer should have them. ⭐
+My work revolves around designing efficient architectures, working close to the hardware/software boundary, and understanding how systems behave under real-world constraints. I’m particularly interested in concurrency, networking, and low-latency systems. ⚙️
 
-I am also constantly trying to develop my communication skills so that I can maintain a good long-term understanding with the people around me. ✅
-## Facts about me. 💡
-- 👨‍💻 Currently working as a System Test Engineer at Nokia.
-- ⭐ I’m interested in Distributed Application Programming.
-- 🌱 I’m currently mastering the programming in Rust.
-- 🛠️ I’m looking to collaborate on Rust projects.
-- 💻 Operating Systems used for development MacOS.
+I value strong fundamentals — problem solving, system design, and attention to detail — and I continuously refine them through hands-on projects and deep technical exploration. ⭐
+
+I also care about clear communication and long-term collaboration, especially when working on complex systems where clarity matters as much as correctness. ✅
+
+## 💡 Facts about me
+- 👨‍💻 System Test Engineer at Nokia
+- 🦀 Focused on Rust for systems and distributed programming
+- 🌐 Interested in distributed systems, networking, and real-time data processing
+- 🚀 Building high-performance applications (trading systems, WebSocket infrastructure, etc.)
+- 🛠️ Open to collaborating on Rust / systems-level projects
+- 💻 Developing primarily on macOS
 - ⚡ How to reach me [email](denis.gruiax@icloud.com).
 
 ## Work experience. ⚒️
